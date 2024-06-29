@@ -9,3 +9,7 @@
 ``` javascript
 print("hello world!")
 ```
+This is a task list example:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portofolio
