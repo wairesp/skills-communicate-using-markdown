@@ -6,3 +6,6 @@
 
 ##### Added random markup text.
 ![Image of Pimicat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+print("hello world!")
+```
