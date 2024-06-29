@@ -5,3 +5,4 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ##### Added random markup text.
+![Image of Pimicat](https://octodex.github.com/images/yaktocat.png)
